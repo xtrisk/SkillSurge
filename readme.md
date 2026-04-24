@@ -98,3 +98,7 @@ The project should work in current versions of:
 ## License
 
 No license file is currently included in this repository. Add one if you plan to distribute or open-source the project.
+
+## Video
+
+https://lut-my.sharepoint.com/:v:/g/personal/sufian_sunjed_student_lut_fi/IQAH2Q9It45ITLxbGJIz7x5kAcIyInIJl0vAzSjxHL9MnO8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xb8GCM
